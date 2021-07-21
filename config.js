@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Tên người yêu bạn à!',
+    introTitle: 'ĐM mày tao bảo!',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    Mà sao tao cứ muốn đấm mày
+    Lạc vào cú đấm của tao là tím mắt
+    Đằng sau tím mắt là yêu và thương`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    title: 'Bố muốn vả mày vcl 😙',
+    desc: 'Tao muốn đấm mày suốt,Tao đấm mày xong tao nhét reallove vào mồm mày ',
     btnYes: 'Vẫn cứ là thích anh <33',
     btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    question:'Trên thế giới có hơn 7 tỷ người nhưng tao vẫn muốn đấm mày <3. Thôi đéo đấm nữa. Tao đá mày bay vào gia phả nhà tao',
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    mess: 'Tao biết mà 🥰. Yêu mày nhiều nhiều 😘😘',
+    messDesc: 'Tao sẽ vả mày đầu xoay 360 độ xoay vào reallove tao.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/bao.letrangia.370' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
